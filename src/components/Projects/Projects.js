@@ -36,7 +36,7 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
+              title="Educational Web App"
               description="I developed a website adding few templates for my client using HTML, CSS and JavaScript. Purchased domain and hosted it successfully. You can click the Live Demo button to visit the live Domain."
               ghLink="https://github.com/aravindphs/CEA-Website"
               demoLink="https://www.codeenhanceacademy.tech/"
